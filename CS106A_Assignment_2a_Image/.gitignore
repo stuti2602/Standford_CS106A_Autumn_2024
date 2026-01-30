@@ -1,0 +1,17 @@
+.DS Store
+__pycache__/
+*.pyc
+
+
+# ignore future assignments for now
+CS106A_Assignment_2b_Image_gride/
+reference_image/
+
+# ignore copied helper files
+bluescreen.py
+simpleimage.py
+ethics-truth.txt
+
+
+
+
