@@ -1,3 +1,23 @@
+# # IDE files
+.idea/
+
+# Local folders (keep locally only)
+2a_image/
+reference/
+CS106A_Assignment_2b_Image_gride/
+
+# Copied helper files
+bluescreen.py
+simpleimage.py
+ethics-truth.txt
+
+# System
+.DS_Store
+
+
+
+
+
 .DS Store
 __pycache__/
 *.pyc
